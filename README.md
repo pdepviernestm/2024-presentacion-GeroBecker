@@ -1,4 +1,4 @@
-# Geronimo Becker
+# Hola! me llamo Geronimo Becker
 
 ### Sobre mi
 
@@ -15,7 +15,7 @@
 - Programar
 - Probar cosas nuevas
 
-![Yo tocando la guitarra](image.jpg)
+<img src="image.jpg" alt="yo tocando la guitarra" width="700"/>
 
 #### Musica que recomiendo
 
