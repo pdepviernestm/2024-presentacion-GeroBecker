@@ -19,19 +19,14 @@
 
 #### Musica que recomiendo
 
-<div width="50%" style="display: inline-block; text-align: center">
 
-1. [<kbd>  Salir De La Melancolía - Serú Girán  </kbd>][Link0]
+1. [<kbd>Salir De La Melancolía - Serú Girán </kbd>][Link0]
 
-2. [<kbd> Algo en Vos - Peces Raros </kbd>][Link1]
+2. [<kbd> After The Storm - Kali Uchis & Tyler, The Creator </kbd>][Link2]
 
-</div>
-<div width="50%" style="display: inline-block; text-align: center">
-
-3. [<kbd> After The Storm - Kali Uchis & Tyler, The Creator </kbd>][Link2]
+3. [<kbd> Algo en Vos - Peces Raros   </kbd>][Link1]
 
 4. [<kbd> how deep? - Tai Verdes </kbd>][Link3]
-</div>
 
 
 <!---------------------------------------------------------------------------->
